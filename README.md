@@ -13,6 +13,7 @@ I am a programmer and fullstack developer. Technologies which I use:
 <li>MongoDB</li>
 <li>PHP</li>
 <li>Laravel</li>
+<li>PWA</li>
 
 <!--
 **mithujoy/mithujoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
