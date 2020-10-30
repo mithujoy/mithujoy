@@ -2,18 +2,21 @@
 
 I am a programmer and fullstack developer. Technologies which I use:
 
-<ul><li>HTML</li>
-<li>CSS</li>
-<li>Sass</li>
-<li>JavaScript</li>
+<ul> 
 <li>Angular</li>
 <li>React</li>
 <li>Node</li>
 <li>Express</li>
 <li>MongoDB</li>
+<li>AWS</li>
+<li>PWA</li>
 <li>PHP</li>
 <li>Laravel</li>
-<li>PWA</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Sass</li>
+<li>JavaScript</li>
+ </ul>
 
 <!--
 **mithujoy/mithujoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
